@@ -1,0 +1,1 @@
+This repository contains a data analysis portfolio project for Pizza Store, a new takeout and delivery pizzeria. The project includes three dashboards that visualize key business metrics, including order activity, inventory management, and staff costs.
